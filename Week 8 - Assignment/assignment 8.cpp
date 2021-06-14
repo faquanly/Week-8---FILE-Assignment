@@ -92,7 +92,7 @@ void freqCharacter(int fbin[128], char fc)
 			cout << endl;
 		}
 	}
-	while (1); // to hide the sentence "..."
+	while (1); // branch 2
 }
 /*Some innovations: use function called, set randomly color, set the coordinates, hide the cursor, 
 and hide the sentence "Press any key to continue..." */
