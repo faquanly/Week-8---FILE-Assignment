@@ -92,9 +92,10 @@ void freqCharacter(int fbin[128], char fc)
 			cout << endl;
 		}
 	}
-	while (1); //to hide the sentence "Press any key to continue..."
+	while (1);
 }
-/*Some innovations: use function called, set randomly color, set the coordinates, hide the cursor, and hide the sentence "Press any key to continue..." */
+/*Some innovations: use function called, set randomly color, set the coordinates, hide the cursor, 
+and hide the sentence "Press any key to continue..." */
 void main()
 {	
 	int bin[128];    // frequencies of the characters
